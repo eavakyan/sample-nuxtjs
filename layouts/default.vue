@@ -1,6 +1,8 @@
 <template>
   <div>
+    BEFORE LAYOUT
     <Nuxt />
+    AFTER LAYOUT
   </div>
 </template>
 
