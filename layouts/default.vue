@@ -1,6 +1,8 @@
 <template>
   <div>
+    BEFORE LAYOUT STARTS
     <Nuxt />
+    AFTER LAYOUT ENDS
   </div>
 </template>
 
